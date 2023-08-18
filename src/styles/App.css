@@ -1,1 +1,12 @@
 
+.parent{
+    background-color: greenyellow;
+}
+
+.child-1{
+    background-color: red;
+}
+
+.child-2{
+    background-color: yellow;
+}
